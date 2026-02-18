@@ -12,4 +12,4 @@ Foi desenvolvido um servidor utilizando **Node.js** e **Express**, configurado c
 Foram realizadas chamadas consecutivas para validar a independência das requisições. Como o servidor não armazena estado, cada resposta é processada como uma nova transação.
 
 ### Execução
-![Print Terminal](/assets/Log-Terminal.png)
+![Print Terminal](./assets/Log-Terminal.png)
